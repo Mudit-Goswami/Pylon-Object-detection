@@ -1,0 +1,2 @@
+/home/mudit/obj_detect/build/CMakeFiles/Caliberation.dir
+/home/mudit/obj_detect/build/CMakeFiles/detect.dir
